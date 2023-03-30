@@ -22,5 +22,6 @@
   "dependencies": {
     "company-util": "^0.1.0",
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "eba11e14ca479ac49659c8ddea612307b4458ad9"
 }
